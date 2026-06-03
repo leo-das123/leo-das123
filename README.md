@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development and game development.
 
-🌱 I’m currently learning HTML, CSS, JavaScript, and C languages.
+🌱 I’m currently learning HTML, CSS, JavaScript, and Python.
 
 💻 I love building web apps and exploring new technologies. Recently, I’ve been working with weather APIs and learning how to troubleshoot API key issues.
 
